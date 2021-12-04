@@ -53,4 +53,4 @@ git push -u origin main
 
 
 ==============================================
-DIỆP NGỐ HỌC DỐT
+DIỆP HỌC giỏi
